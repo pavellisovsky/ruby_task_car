@@ -1,0 +1,3 @@
+class Wheels < Car
+
+end		
